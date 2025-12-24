@@ -50,7 +50,7 @@ echo 2. Remove Services
 echo 3. Check Status
 echo 4. Run Diagnostics
 echo 5. Check Updates
-echo 6. Switch Check Updates (%CheckUpdatesStatus%)
+echo 6. Switch Check Updates (enabled)
 echo 7. Switch Game Filter (%GameFilterStatus%)
 echo 8. Switch ipset (%IPsetStatus%)
 echo 9. Update ipset list
